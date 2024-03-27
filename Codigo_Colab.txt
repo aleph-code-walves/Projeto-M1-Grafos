@@ -1,0 +1,7 @@
+Trabalho Conectividade em grafos
+Alunos:
+Aleph William Alves
+Kelvynn Bordin Calegari
+Enrico Belo Ribeiro
+
+Link Colab: https://colab.research.google.com/drive/14Lwg1goi5MYJRUWNZYkVIhhuzv-XEZT8?usp=sharing
